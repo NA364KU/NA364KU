@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aneek and I am a graduate student studying Electrical Engineering.
 - 👀 I’m interested in control of mobile robots.
-- 🌱 I’m currently learning about modern control methods such as MPC (model predictive control) and its applications in real time optimization solving, including mobile robots.
+- 🌱 I’m currently learning about modern control methods such as MPC (model predictive control) and its applications in real time use, including mobile robots.
 
 
 <!---
